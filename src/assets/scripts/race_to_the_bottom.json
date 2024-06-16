@@ -1,0 +1,47 @@
+[
+  {
+    "id": "_meta",
+    "name": "Race to the Bottom",
+    "author": "Evin Donohoe",
+    "logo": "https://cdn.shopify.com/oxygen/57467011226/524442/h11pcta59/build/_assets/Doomsayer_purple-Y56ZM4XT.png"
+  },
+  {
+    "id": "doomsayer"
+  },
+  {
+    "id": "sentinel"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "courtier"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "vortox"
+  }
+]
