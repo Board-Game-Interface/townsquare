@@ -42,7 +42,7 @@
 
 <script>
 import { mapState } from "vuex";
-import version from "../package.json";
+import { version } from "../package.json";
 import TownSquare from "./components/TownSquare";
 import TownInfo from "./components/TownInfo";
 import Menu from "./components/Menu";
